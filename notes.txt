@@ -1,0 +1,46 @@
+in line 19, there were no codes for a heading. (<h1>)
+in line 20, </div> is indented too far
+line 22 was indented too far
+no space between lines 22 and 23
+in line 24, change "col-sm-12" to "col-sm-6"
+lines 25-27 need to be indented farther
+in line 26, the title needs to be changed from "instructions" to something more relevant to the website page
+deleted lines 28-29
+deleted extra code on 22-32
+lines 18-19 indented
+lines 28-31 need <p> indents before and after each line
+after putting in the <p> lines, the reference link needs to be placed into the empty quotes
+put in a space between lines 42 and 43
+need <> around line 47
+re indent lines 48-50 
+space between lines 50/51
+add text-center in line 56
+space between lines 56/57
+take text-center out of quotes in line 58
+moved lines 59/60 to (took 59/60 from working code and put it in there)
+put in two <br> in 61 and 62
+moved lines 105/106 to 63 and 64
+changed line 65 from <div> to </div>
+added another </div> to line 66
+moved lines 91-94 to 68-71, re-indented line 71
+added <br> to lines 72 and 73
+moved lines 102/103 to 74/75
+moved line 76 </div> to the left
+added a space to line 78
+moved line 96 to 81 
+moved <div class= "row">
+		<button class="btn btn-primary form-control" id="factButton">Random Boo Fact</button>
+		<div class="well text-center">
+        to lines 82-84
+put <p id="factText">Click the button for a random Boo fact!</p> in line 86
+inserted </div> in lines 87, 88, and 89
+moved line 91 to the left
+put <li> around each line in 96-100
+re indented lines 102-106
+added </div> to line 108
+linked javascript in line 110 and changed it to "logic.js"
+JAVASCRIPT FILE~
+put array after booFacts in lines 2/3
+put quotes around each fact in line 6
+put quotes around pink in line 9
+merged lines 2
